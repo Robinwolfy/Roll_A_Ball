@@ -7,6 +7,9 @@ TagManager:
   - Pick up
   - collect
   - barriers
+  - bad
+  - end
+  - start
   layers:
   - Default
   - TransparentFX
